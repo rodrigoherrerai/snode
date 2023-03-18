@@ -1,0 +1,14 @@
+{
+  "name": "snode",
+  "version": "1.0.0",
+  "description": "Run solidity server side ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Herrera I",
+  "license": "MIT",
+  "dependencies": {
+    "solc": "^0.8.19"
+  }
+}
